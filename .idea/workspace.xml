@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2be3542-92ea-49a4-ac6d-8f21e6290ba8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1k36rTlJIwJjRMb9oplxfnhBPOc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2be3542-92ea-49a4-ac6d-8f21e6290ba8" name="Default Changelist" comment="" />
+      <created>1604917126888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604917126888</updated>
+      <workItem from="1604917128019" duration="4124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="610" y="173" width="441" height="588" key="#com.intellij.ide.util.MemberChooser" timestamp="1604917792897">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state x="610" y="173" width="441" height="588" key="#com.intellij.ide.util.MemberChooser/72.27.1528.873@72.27.1528.873" timestamp="1604917792897" />
+    <state x="550" y="183" width="561" height="589" key="NewPhpClassDialog" timestamp="1604918072191">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state x="550" y="183" width="561" height="589" key="NewPhpClassDialog/72.27.1528.873@72.27.1528.873" timestamp="1604918072191" />
+  </component>
+</project>
